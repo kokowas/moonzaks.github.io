@@ -1,7 +1,7 @@
 var simplemaps_countrymap_mapdata={
   main_settings: {
    //General settings
-    width: "800", //'700' or 'responsive'
+    width: "600", //'500' or 'responsive'
     background_color: "#1ae4f4",
     background_transparent: "yes",
     border_color: "#000000",
